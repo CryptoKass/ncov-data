@@ -12,8 +12,8 @@ There are a total of **30810** comfirmed cases worldwide, with **30536** in Main
 https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
 
 
-## Latest Global Data (from BNONews):
-[world.latest.bno.csv](world.latest.bno.csv)
+## Latest Global Data:
+Dataset: [world.latest.bno.csv](world.latest.bno.csv)
 
 | country        |   cases |   deaths | notes                   | links                                                                                                                                                                                    |
 |:---------------|--------:|---------:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

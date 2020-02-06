@@ -8,3 +8,6 @@ https://docs.google.com/spreadsheets/d/1wQVypefm946ch4XDp37uZ-wartW4V7ILdg-qYiDX
 
 - china.patients.dxy.csv -> 
 https://docs.google.com/spreadsheets/d/1jS24DjSPVWa4iuxuD4OAXrE3QeI8c9BC1hSlqr-NMiU/
+
+- world.totals.bno.csv ->
+https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
