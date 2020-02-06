@@ -1,20 +1,20 @@
 # 2019-nCoV Data
 
-**Disclaimer**: I'm not a Medical professional/Data scientist or Epidemiologist. This page is updated atleast once a Day.
-
-> The 2019 novel coronavirus (provisionally named 2019-nCoV), informally known as the Wuhan coronavirus, is a contagious virus that causes respiratory infection. It is the cause of the ongoing 2019–20 Wuhan coronavirus outbreak.[6] Genomic sequencing has shown that it is a positive-sense, single-stranded RNA coronavirus. 
-https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
+**Disclaimer**: I'm not a Medical professional/Data scientist or Epidemiologist. Its always better to go to reputable sources directly.
 
 This Repo contains CSV and JSON files, that use the following naming convention: `region.type.source.extention`
-e.g. `china.daily-confirmed.wiki.csv`
+e.g. `china.daily-confirmed.wiki.csv` and is updated atleast once a day.
 
 # Overview:
 There are a total of **30809** comfirmed cases worldwide, with **30536** in Mainland China. Sadly atleast **635** people have died from this virus.
 
-*See the `/raw` folder for unprocessed\* datasets, often containing more information.*
+> The 2019 novel coronavirus (provisionally named 2019-nCoV), informally known as the Wuhan coronavirus, is a contagious virus that causes respiratory infection. It is the cause of the ongoing 2019–20 Wuhan coronavirus outbreak.[6] Genomic sequencing has shown that it is a positive-sense, single-stranded RNA coronavirus. 
+https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
+
 
 ## Latest Global Data (from BNONews):
 [world.latest.bno.csv](world.latest.bno.csv)
+
 | country        |   cases |   deaths | notes                   | links                                                                                                                                                                                    |
 |:---------------|--------:|---------:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | China          |   30536 |      633 | 0                       | https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/                                                                                                                      |
@@ -43,3 +43,7 @@ There are a total of **30809** comfirmed cases worldwide, with **30536** in Main
 | Sri Lanka      |       1 |        0 | 1 recovered             | https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF                                                     |
 | Finland        |       1 |        0 | 1 recovered             | https://yle.fi/uutiset/osasto/news/finlands_first_coronavirus_patient_released_from_hospital_symptom-free/11193661                                                                       |
 | Sweden         |       1 |        0 | 0                       | https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/                                                             |
+
+*See the `/raw` folder for unprocessed\* datasets, often containing more information.*
+
+
