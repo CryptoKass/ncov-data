@@ -6,7 +6,7 @@ This Repo contains CSV and JSON files, that use the following naming convention:
 e.g. `china.daily-confirmed.wiki.csv` and is updated atleast once a day.
 
 # Overview:
-There are a total of **30809** comfirmed cases worldwide, with **30536** in Mainland China. Sadly atleast **635** people have died from this virus.
+There are a total of **30810** comfirmed cases worldwide, with **30536** in Mainland China. Sadly atleast **635** people have died from this virus.
 
 > The 2019 novel coronavirus (provisionally named 2019-nCoV), informally known as the Wuhan coronavirus, is a contagious virus that causes respiratory infection. It is the cause of the ongoing 2019–20 Wuhan coronavirus outbreak.[6] Genomic sequencing has shown that it is a positive-sense, single-stranded RNA coronavirus. 
 https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
@@ -37,7 +37,7 @@ https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
 | Russia         |       2 |        0 | 0                       | https://tass.ru/obschestvo/7656549                                                                                                                                                       |
 | Philippines    |       3 |        1 | 0                       | https://www.youtube.com/watch?v=_pIluXrMHCk                                                                                                                                              |
 | India          |       3 |        0 | Stable                  | https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681                                                                                                                               |
-| Italy          |       2 |        0 | 2 serious               | http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html                                                    |
+| Italy          |       3 |        0 | 2 serious               | https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2020/02/03/coronavirus-accertamenti-su-italiano-alla-cecchignola-_b20da9f2-57a5-4870-978f-23e9c50d6155.html                   |
 | Nepal          |       1 |        0 | 0                       | https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month                                                      |
 | Cambodia       |       1 |        0 | 1 recovered             | https://twitter.com/VOD_English/status/1221769368180121603                                                                                                                               |
 | Sri Lanka      |       1 |        0 | 1 recovered             | https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF                                                     |

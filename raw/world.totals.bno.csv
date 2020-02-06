@@ -1,5 +1,5 @@
 MAINLAND CHINA,Cases,Deaths,Notes,Links
-Hubei province (including Wuhan),"22,112",619,"3,161 serious, 841 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200207_2020605.shtml
+Hubei province (including Wuhan),"22,112",619*,"3,161 serious, 841 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200207_2020605.shtml
 Zhejiang province,954,0,"51 serious, 15 critical",https://www.zjwjw.gov.cn/art/2020/2/6/art_1202101_41881119.html
 Guangdong province,970,0,"84 serious, 32 critical",http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2885363.html
 Henan province,851,2,"38 serious, 24 critical",https://m.weibo.cn/status/4468885493786791
@@ -30,7 +30,7 @@ Jilin province,59,0,"3 serious, 2 critical",https://m.weibo.cn/status/4468878903
 Xinjiang,36,0,"8 serious, 1 critical",http://www.xjhfpc.gov.cn/info/1495/18082.htm
 Qinghai province,18,0,1 serious,https://m.weibo.cn/status/4468903075418422
 Tibet,1,0,Stable,http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-TOTAL,"30,536",633,"3,859 serious1,153 recovered24,702 suspected",
+TOTAL,"30,536",633,"4,664 serious1,337 recovered24,702 suspected",
 REGIONS,Cases,Deaths,Notes,Links
 Hong Kong,24,1,,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 Taiwan,16,0,1 recovered,https://www.cna.com.tw/news/firstnews/202002065014.aspx
@@ -53,7 +53,7 @@ United Kingdom,3,0,,https://www.gov.uk/government/news/cmo-confirms-third-case-o
 Russia,2,0,,https://tass.ru/obschestvo/7656549
 Philippines,3,1,,https://www.youtube.com/watch?v=_pIluXrMHCk
 India,3,0,Stable,https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
-Italy,2,0,2 serious,http://www.rainews.it/dl/rainews/articoli/Conte-due-casi-di-coronavirus-accertati-in-Italia-60b4294a-3a3f-4b05-ad1f-b096d1c60110.html
+Italy,3,0,2 serious,https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2020/02/03/coronavirus-accertamenti-su-italiano-alla-cecchignola-_b20da9f2-57a5-4870-978f-23e9c50d6155.html
 Nepal,1,0,,https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month
 Cambodia,1,0,1 recovered,https://twitter.com/VOD_English/status/1221769368180121603
 Sri Lanka,1,0,1 recovered,https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
@@ -61,4 +61,4 @@ Finland,1,0,1 recovered,https://yle.fi/uutiset/osasto/news/finlands_first_corona
 Sweden,1,0,,https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain,1,0,,https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
 Belgium,1,0,,https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
-TOTAL,225,1,5 serious/critical,
+TOTAL,226,1,5 serious/critical,
