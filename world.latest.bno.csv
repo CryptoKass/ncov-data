@@ -1,9 +1,9 @@
 ,country,cases,deaths,notes,links
-0,China,31161,637,0,https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+0,China,31155,638,0,https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
 1,Hong Kong,24,1,0,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 2,Taiwan,16,0,1 recovered,https://www.cna.com.tw/news/firstnews/202002065014.aspx
 3,Macau,10,0,0,https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
-4,Japan,45,0,0,https://www.mhlw.go.jp/stf/newpage_09340.html
+4,Japan,86,0,4 recovered,https://www.mhlw.go.jp/stf/newpage_09340.html
 5,Thailand,25,0,"1 serious, 9 recovered",https://www.bangkokpost.com/thailand/general/1851149/first-local-virus-patient-cured
 6,Singapore,30,0,"1 critical, 1 recovered",https://www.moh.gov.sg/news-highlights/details/four-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
 7,South Korea,24,0,1 recovered,https://www.yna.co.kr/view/AKR20200207031851004?section=society/all

@@ -6,7 +6,7 @@ This Repo contains CSV and JSON files, that use the following naming convention:
 e.g. `china.daily-confirmed.wiki.csv` and is updated atleast once a day.
 
 # Overview:
-There are a total of **31438** comfirmed cases worldwide, with **31161** in Mainland China. Sadly atleast **639** people have died from this virus.
+There are a total of **31473** comfirmed cases worldwide, with **31155** in Mainland China. Sadly atleast **640** people have died from this virus.
 
 > The 2019 novel coronavirus (provisionally named 2019-nCoV), informally known as the Wuhan coronavirus, is a contagious virus that causes respiratory infection. It is the cause of the ongoing 2019–20 Wuhan coronavirus outbreak.[6] Genomic sequencing has shown that it is a positive-sense, single-stranded RNA coronavirus. 
 https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
@@ -17,11 +17,11 @@ https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
 
 | country        |   cases |   deaths | notes                   | links                                                                                                                                                                                    |
 |:---------------|--------:|---------:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| China          |   31161 |      637 | 0                       | https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/                                                                                                                      |
+| China          |   31155 |      638 | 0                       | https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/                                                                                                                      |
 | Hong Kong      |      24 |        1 | 0                       | https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf                                                                                                                    |
 | Taiwan         |      16 |        0 | 1 recovered             | https://www.cna.com.tw/news/firstnews/202002065014.aspx                                                                                                                                  |
 | Macau          |      10 |        0 | 0                       | https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3                                                                                                                                          |
-| Japan          |      45 |        0 | 0                       | https://www.mhlw.go.jp/stf/newpage_09340.html                                                                                                                                            |
+| Japan          |      86 |        0 | 4 recovered             | https://www.mhlw.go.jp/stf/newpage_09340.html                                                                                                                                            |
 | Thailand       |      25 |        0 | 1 serious, 9 recovered  | https://www.bangkokpost.com/thailand/general/1851149/first-local-virus-patient-cured                                                                                                     |
 | Singapore      |      30 |        0 | 1 critical, 1 recovered | https://www.moh.gov.sg/news-highlights/details/four-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore                                                                     |
 | South Korea    |      24 |        0 | 1 recovered             | https://www.yna.co.kr/view/AKR20200207031851004?section=society/all                                                                                                                      |
