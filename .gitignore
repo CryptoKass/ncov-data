@@ -3,3 +3,4 @@ build_scripts/
 graph_scripts/
 graphs/
 .vscode/
+run.py
