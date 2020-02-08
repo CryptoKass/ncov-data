@@ -1,5 +1,5 @@
 MAINLAND CHINA,Cases,Deaths,Notes,Links
-Hubei province (including Wuhan),"22,112",619*,"3,161 serious, 841 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200207_2020605.shtml
+Hubei province (including Wuhan),"24,953",699,"4,188 serious, 1,007 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200208_2021418.shtml
 Guangdong province,"1,034",1,"85 serious, 34 critical",https://m.weibo.cn/status/4469364353005712
 Zhejiang province,"1,006",0,"51 serious, 21 critical",https://www.zjwjw.gov.cn/art/2020/2/7/art_1202101_41884591.html
 Henan province,914,3,"48 serious, 27 critical",https://m.weibo.cn/status/4469249072410401
@@ -30,12 +30,12 @@ Ningxia Region,43,0,1 serious,http://wsjkw.nx.gov.cn/info/1140/13613.htm
 Xinjiang,39,0,"7 serious, 2 critical",http://www.xjhfpc.gov.cn/info/1495/18101.htm
 Qinghai province,18,0,1 serious,https://m.weibo.cn/status/4468903075418422
 Tibet,1,0,Stable,http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-TOTAL,"31,207",637,"4,821 serious1,540 recovered26,359 suspected",
+TOTAL,"34,048",717,"5,894 serious1,838 recovered26,359 suspected",
 REGIONS,Cases,Deaths,Notes,Links
-Hong Kong,25,1,,https://news.rthk.hk/rthk/en/component/k2/1507278-20200207.htm
+Hong Kong,26,1,,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 Taiwan,16,0,1 recovered,https://www.cna.com.tw/news/firstnews/202002065014.aspx
 Macau,10,0,,https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
-TOTAL,51,1,0 serious,
+TOTAL,52,1,0 serious,
 INTERNATIONAL,Cases,Deaths,Notes,Links
 Japan,86*,0,4 recovered,https://www.mhlw.go.jp/stf/newpage_09340.html
 Singapore,33,0,"2 critical, 2 recovered",https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
@@ -43,12 +43,12 @@ Thailand,25,0,"1 serious, 9 recovered",https://www.bangkokpost.com/thailand/gene
 South Korea,24,0,1 recovered,https://www.yna.co.kr/view/AKR20200207031851004?section=society/all
 Australia,15,0,5 recovered,https://www.health.gov.au/news/coronavirus-update-at-a-glance
 Malaysia,15,0,"14 stable, 1 recovered",https://twitter.com/KKMPutrajaya/status/1225690059434627072
-Germany,13,0,,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-13/
-United States,12,0,1 recovered,https://wtmj.com/news/2020/02/05/first-wisconsin-coronavirus-case-confirmed/
+Germany,14,0,,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-14/
+United States,12,0,3 recovered,https://edition.cnn.com/2020/02/07/us/illinois-coronavirus-patients-discharge/index.html
 Vietnam,12,0,3 recovered,https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/viet-nam-them-2-ca-duong-tinh-virus-corona-deu-la-nguoi-than-nu-cong-nhan-ve-tu-vu-han-613719.html
 Canada,7,0,,https://news.gov.bc.ca/releases/2020HLTH0025-000236
 France,6,0,1 serious,https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html
-UAE,5,0,Stable,https://www.wam.ae/en/details/1395302820367
+UAE,7,0,,https://wam.ae/ar/details/1395302822121
 United Kingdom,3,0,,https://www.gov.uk/government/news/cmo-confirms-third-case-of-coronavirus-in-england
 Philippines,3,1,,https://www.youtube.com/watch?v=_pIluXrMHCk
 India,3,0,Stable,https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
@@ -61,4 +61,4 @@ Finland,1,0,1 recovered,https://yle.fi/uutiset/osasto/news/finlands_first_corona
 Sweden,1,0,,https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain,1,0,,https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
 Belgium,1,0,,https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
-TOTAL,274,1,5 serious/critical,
+TOTAL,277,1,5 serious/critical,

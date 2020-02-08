@@ -6,7 +6,7 @@ This Repo contains CSV and JSON files, that use the following naming convention:
 e.g. `china.daily-confirmed.wiki.csv` and is updated atleast once a day.
 
 # Overview:
-There are a total of **31530** comfirmed cases worldwide, with **31207** in Mainland China. Sadly atleast **639** people have died from this virus.
+There are a total of **34375** comfirmed cases worldwide, with **34048** in Mainland China. Sadly atleast **719** people have died from this virus.
 
 > The 2019 novel coronavirus (provisionally named 2019-nCoV), informally known as the Wuhan coronavirus, is a contagious virus that causes respiratory infection. It is the cause of the ongoing 2019–20 Wuhan coronavirus outbreak.[6] Genomic sequencing has shown that it is a positive-sense, single-stranded RNA coronavirus. 
 https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
@@ -17,8 +17,8 @@ https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
 
 | country        |   cases |   deaths | notes                   | links                                                                                                                                                                                    |
 |:---------------|--------:|---------:|:------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| China          |   31207 |      637 | 0                       | https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/                                                                                                                      |
-| Hong Kong      |      25 |        1 | 0                       | https://news.rthk.hk/rthk/en/component/k2/1507278-20200207.htm                                                                                                                           |
+| China          |   34048 |      717 | 0                       | https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/                                                                                                                      |
+| Hong Kong      |      26 |        1 | 0                       | https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf                                                                                                                    |
 | Taiwan         |      16 |        0 | 1 recovered             | https://www.cna.com.tw/news/firstnews/202002065014.aspx                                                                                                                                  |
 | Macau          |      10 |        0 | 0                       | https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3                                                                                                                                          |
 | Japan          |      86 |        0 | 4 recovered             | https://www.mhlw.go.jp/stf/newpage_09340.html                                                                                                                                            |
@@ -27,12 +27,12 @@ https://en.wikipedia.org/wiki/Novel_coronavirus_(2019-nCoV)
 | South Korea    |      24 |        0 | 1 recovered             | https://www.yna.co.kr/view/AKR20200207031851004?section=society/all                                                                                                                      |
 | Australia      |      15 |        0 | 5 recovered             | https://www.health.gov.au/news/coronavirus-update-at-a-glance                                                                                                                            |
 | Malaysia       |      15 |        0 | 14 stable, 1 recovered  | https://twitter.com/KKMPutrajaya/status/1225690059434627072                                                                                                                              |
-| Germany        |      13 |        0 | 0                       | https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-13/                                                          |
-| United States  |      12 |        0 | 1 recovered             | https://wtmj.com/news/2020/02/05/first-wisconsin-coronavirus-case-confirmed/                                                                                                             |
+| Germany        |      14 |        0 | 0                       | https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-14/                                                          |
+| United States  |      12 |        0 | 3 recovered             | https://edition.cnn.com/2020/02/07/us/illinois-coronavirus-patients-discharge/index.html                                                                                                 |
 | Vietnam        |      12 |        0 | 3 recovered             | https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/viet-nam-them-2-ca-duong-tinh-virus-corona-deu-la-nguoi-than-nu-cong-nhan-ve-tu-vu-han-613719.html                                        |
 | Canada         |       7 |        0 | 0                       | https://news.gov.bc.ca/releases/2020HLTH0025-000236                                                                                                                                      |
 | France         |       6 |        0 | 1 serious               | https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html |
-| UAE            |       5 |        0 | Stable                  | https://www.wam.ae/en/details/1395302820367                                                                                                                                              |
+| UAE            |       7 |        0 | 0                       | https://wam.ae/ar/details/1395302822121                                                                                                                                                  |
 | United Kingdom |       3 |        0 | 0                       | https://www.gov.uk/government/news/cmo-confirms-third-case-of-coronavirus-in-england                                                                                                     |
 | Philippines    |       3 |        1 | 0                       | https://www.youtube.com/watch?v=_pIluXrMHCk                                                                                                                                              |
 | India          |       3 |        0 | Stable                  | https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681                                                                                                                               |

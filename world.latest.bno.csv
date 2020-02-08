@@ -1,6 +1,6 @@
 ,country,cases,deaths,notes,links
-0,China,31207,637,0,https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-1,Hong Kong,25,1,0,https://news.rthk.hk/rthk/en/component/k2/1507278-20200207.htm
+0,China,34048,717,0,https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+1,Hong Kong,26,1,0,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 2,Taiwan,16,0,1 recovered,https://www.cna.com.tw/news/firstnews/202002065014.aspx
 3,Macau,10,0,0,https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
 4,Japan,86,0,4 recovered,https://www.mhlw.go.jp/stf/newpage_09340.html
@@ -9,12 +9,12 @@
 7,South Korea,24,0,1 recovered,https://www.yna.co.kr/view/AKR20200207031851004?section=society/all
 8,Australia,15,0,5 recovered,https://www.health.gov.au/news/coronavirus-update-at-a-glance
 9,Malaysia,15,0,"14 stable, 1 recovered",https://twitter.com/KKMPutrajaya/status/1225690059434627072
-10,Germany,13,0,0,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-13/
-11,United States,12,0,1 recovered,https://wtmj.com/news/2020/02/05/first-wisconsin-coronavirus-case-confirmed/
+10,Germany,14,0,0,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-14/
+11,United States,12,0,3 recovered,https://edition.cnn.com/2020/02/07/us/illinois-coronavirus-patients-discharge/index.html
 12,Vietnam,12,0,3 recovered,https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/viet-nam-them-2-ca-duong-tinh-virus-corona-deu-la-nguoi-than-nu-cong-nhan-ve-tu-vu-han-613719.html
 13,Canada,7,0,0,https://news.gov.bc.ca/releases/2020HLTH0025-000236
 14,France,6,0,1 serious,https://www.francetvinfo.fr/sante/maladie/coronavirus/coronavirus-2019-ncov-les-six-cas-confirmes-en-france-sont-dans-un-etat-stable-selon-le-directeur-general-de-la-sante_3811051.html
-15,UAE,5,0,Stable,https://www.wam.ae/en/details/1395302820367
+15,UAE,7,0,0,https://wam.ae/ar/details/1395302822121
 16,United Kingdom,3,0,0,https://www.gov.uk/government/news/cmo-confirms-third-case-of-coronavirus-in-england
 17,Philippines,3,1,0,https://www.youtube.com/watch?v=_pIluXrMHCk
 18,India,3,0,Stable,https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
