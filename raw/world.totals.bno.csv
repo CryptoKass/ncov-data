@@ -1,5 +1,5 @@
 MAINLAND CHINA,Cases,Deaths,Notes,Links
-Hubei province (including Wuhan),"24,953",699,"4,188 serious, 1,007 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200208_2021418.shtml
+Hubei province (including Wuhan),"27,100",780,"4,093 serious, 1,154 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200209_2021930.shtml
 Guangdong province,"1,095",1,"86 serious, 38 critical",http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2888192.html
 Zhejiang province,"1,048",0,"53 serious, 25 critical",https://www.zjwjw.gov.cn/art/2020/2/8/art_1202101_41890388.html
 Henan province,981,4,"58 serious, 28 critical",https://m.weibo.cn/status/4469615763854619
@@ -30,7 +30,7 @@ Ningxia Region,45,0,1 serious,http://wsjkw.nx.gov.cn/info/1140/13645.htm
 Xinjiang,42,0,"9 serious, 2 critical",http://www.xjhfpc.gov.cn/info/1495/18152.htm
 Qinghai province,18,0,1 serious,https://m.weibo.cn/status/4468903075418422
 Tibet,1,0,Stable,http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-TOTAL,"34,610",723,"6,101 serious2,050 recovered27,657 suspected",
+TOTAL,"36,757",804,"6,101 serious2,050 recovered27,657 suspected",
 REGIONS,Cases,Deaths,Notes,Links
 Hong Kong,26,1,,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
 Taiwan,17,0,1 recovered,https://www.cdc.gov.tw/Bulletin/Detail/CngpYj-4R7LFxtHUDUK5Vw?typeid=9
@@ -38,7 +38,7 @@ Macau,10,0,,https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
 TOTAL,53,1,0 serious,
 INTERNATIONAL,Cases,Deaths,Notes,Links
 Japan,89*,0,4 recovered,https://this.kiji.is/598672585603007585?c=39550187727945729
-Singapore,33,0,"2 critical, 2 recovered",https://www.moh.gov.sg/news-highlights/details/three-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+Singapore,40,0,"4 critical, 2 recovered",https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
 Thailand,32,0,"1 serious, 10 recovered",https://pr.moph.go.th/?url=pr/detail/2/04/138421/
 South Korea,24,0,1 recovered,https://www.yna.co.kr/view/AKR20200207031851004?section=society/all
 Australia,15,0,5 recovered,https://www.health.gov.au/news/coronavirus-update-at-a-glance
@@ -61,4 +61,4 @@ Finland,1,0,1 recovered,https://yle.fi/uutiset/osasto/news/finlands_first_corona
 Sweden,1,0,,https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Spain,1,0,,https://www.antena3.com/noticias/sociedad/confirmado-caso-coronavirus-gomera_202001315e34a9380cf2cfb788f47b07.html
 Belgium,1,0,,https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
-TOTAL,294,1,6 serious/critical,
+TOTAL,301,1,8 serious/critical,
