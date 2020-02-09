@@ -4,3 +4,4 @@ graph_scripts/
 graphs/
 .vscode/
 run.py
+.DS_Store
