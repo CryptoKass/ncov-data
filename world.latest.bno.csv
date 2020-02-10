@@ -1,27 +1,27 @@
 ,country,cases,deaths,notes,links
-0,China,37211,811,0,https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
-1,Hong Kong,26,1,0,https://www.chp.gov.hk/files/pdf/enhanced_sur_pneumonia_wuhan_eng.pdf
+0,China,40171,908,0,https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/
+1,Hong Kong,36,1,0,https://www.info.gov.hk/gia/general/202002/09/P2020020900704.htm
 2,Taiwan,18,0,1 recovered,https://www.cdc.gov.tw/Bulletin/Detail/iMZg3IYhKMeo-87fTw8hpQ?typeid=9
 3,Macau,10,0,0,https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
-4,Japan,90,0,4 recovered,https://this.kiji.is/598672585603007585?c=39550187727945729
-5,Singapore,40,0,"4 critical, 2 recovered",https://www.moh.gov.sg/news-highlights/details/seven-more-confirmed-cases-of-novel-coronavirus-infection-in-singapore
+4,Japan,161,0,4 recovered,https://www3.nhk.or.jp/news/html/20200210/k10012279941000.html
+5,Singapore,43,0,"6 critical, 6 recovered",https://www.moh.gov.sg/news-highlights/details/four-more-cases-discharged-three-new-cases-of-novel-coronavirus-infection-confirmed
 6,Thailand,32,0,"1 serious, 10 recovered",https://pr.moph.go.th/?url=pr/detail/2/04/138421/
-7,South Korea,25,0,1 recovered,https://en.yna.co.kr/view/AEN20200209000600320
-8,Australia,15,0,5 recovered,https://www.health.gov.au/news/coronavirus-update-at-a-glance
-9,Malaysia,16,0,"15 stable, 1 recovered",https://twitter.com/KKMPutrajaya/status/1226065545872592896
+7,South Korea,27,0,3 recovered,https://www.yna.co.kr/view/AKR20200209048000017
+8,Malaysia,18,0,"16 stable, 1 recovered",https://kpkesihatan.com/2020/02/10/kenyataan-akhbar-kpk-10-februari-2020-situasi-terkini-kejadian-2019-ncov-di-malaysia/
+9,Australia,15,0,5 recovered,https://www.health.gov.au/news/coronavirus-update-at-a-glance
 10,Germany,14,0,0,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-14/
-11,United States,12,0,3 recovered,https://edition.cnn.com/2020/02/07/us/illinois-coronavirus-patients-discharge/index.html
-12,Vietnam,14,0,3 recovered,https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/ca-duong-tinh-virus-corona-thu-14-tai-viet-nam-tiep-tuc-la-nguoi-vinh-phuc-614711.html
-13,Canada,7,0,0,https://news.gov.bc.ca/releases/2020HLTH0025-000236
-14,France,11,0,1 serious,https://www.lefigaro.fr/sciences/coronavirus-5-nouveaux-cas-en-france-20200208
-15,UAE,7,0,0,https://wam.ae/ar/details/1395302822121
-16,United Kingdom,3,0,0,https://www.gov.uk/government/news/cmo-confirms-third-case-of-coronavirus-in-england
+11,Vietnam,14,0,3 recovered,https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/ca-duong-tinh-virus-corona-thu-14-tai-viet-nam-tiep-tuc-la-nguoi-vinh-phuc-614711.html
+12,United States,12,0,3 recovered,https://edition.cnn.com/2020/02/07/us/illinois-coronavirus-patients-discharge/index.html
+13,France,11,0,1 serious,https://www.lefigaro.fr/sciences/coronavirus-5-nouveaux-cas-en-france-20200208
+14,United Kingdom,8,0,0,https://www.gov.uk/government/news/chief-medical-officer-for-england-announces-four-further-coronavirus-cases
+15,Canada,7,0,0,https://news.gov.bc.ca/releases/2020HLTH0025-000236
+16,UAE,7,0,0,https://wam.ae/ar/details/1395302822121
 17,Philippines,3,1,0,https://www.youtube.com/watch?v=_pIluXrMHCk
 18,India,3,0,Stable,https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
 19,Italy,3,0,2 serious,https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2020/02/03/coronavirus-accertamenti-su-italiano-alla-cecchignola-_b20da9f2-57a5-4870-978f-23e9c50d6155.html
 20,Russia,2,0,0,https://tass.ru/obschestvo/7656549
-21,Nepal,1,0,0,https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month
-22,Cambodia,1,0,1 recovered,https://twitter.com/VOD_English/status/1221769368180121603
-23,Sri Lanka,1,0,1 recovered,https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
-24,Finland,1,0,1 recovered,https://yle.fi/uutiset/osasto/news/finlands_first_coronavirus_patient_released_from_hospital_symptom-free/11193661
-25,Sweden,1,0,0,https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
+21,Spain,2,0,0,https://twitter.com/SaludPublicaEs/status/1226432655555731457
+22,Nepal,1,0,0,https://kathmandupost.com/2/2020/01/24/officials-confirm-novel-coronavirus-in-nepali-man-who-returned-from-wuhan-earlier-this-month
+23,Cambodia,1,0,1 recovered,https://twitter.com/VOD_English/status/1221769368180121603
+24,Sri Lanka,1,0,1 recovered,https://www.reuters.com/article/us-health-china-sri-lanka/sri-lanka-confirms-first-case-of-coronavirus-health-official-idUSKBN1ZQ1WF
+25,Finland,1,0,1 recovered,https://yle.fi/uutiset/osasto/news/finlands_first_coronavirus_patient_released_from_hospital_symptom-free/11193661

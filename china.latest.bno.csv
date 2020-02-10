@@ -1,33 +1,3 @@
 ,province,cases,deaths,notes,links
-0,Hubei province (including Wuhan),27100,780,"4,093 serious, 1,154 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200209_2021930.shtml
-1,Guangdong province,1095,1,"86 serious, 38 critical",http://wsjkw.gd.gov.cn/zwyw_yqxx/content/post_2888192.html
-2,Zhejiang province,1075,0,"51 serious, 26 critical",https://www.zjwjw.gov.cn/art/2020/2/9/art_1202101_41892304.html
-3,Henan province,1033,6,"64 serious, 26 critical",https://m.weibo.cn/status/4469975098330319
-4,Hunan province,838,1,60 serious,http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202002/t20200209_11174296.html
-5,Anhui province,779,1,5 critical,http://wjw.ah.gov.cn/news_details_54710.html
-6,Jiangxi province,698,0,61 serious ,http://hc.jiangxi.gov.cn/doc/2020/02/08/138433.shtml
-7,Chongqing,446,2,"29 serious, 20 critical",http://wsjkw.cq.gov.cn/tzgg/20200209/252884.html
-8,Jiangsu province,468,0,"5 serious, 3 critical",https://m.weibo.cn/detail/4469976217537923
-9,Shandong province,416,0,"25 serious, 7 critical",https://m.weibo.cn/detail/4469710214671587
-10,Sichuan province,387,1,21 critical,https://m.weibo.cn/detail/4469973948390647
-11,Beijing,315,2,1+ critical,https://m.weibo.cn/detail/4469644544990553
-12,Shanghai,292,1,"10 serious, 10 critical",https://m.weibo.cn/status/4469961516950639
-13,Heilongjiang province,320,6,45 serious,http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/7769/navid/42/stypeid/
-14,Fujian province,239,0,"12 serious, 8 critical",http://headline.fjtv.net/folder875/2020-02-08/2168529.html
-15,Shaanxi province,195,0,1+ serious,http://sxwjw.shaanxi.gov.cn/art/2020/2/8/art_9_67873.html
-16,Guangxi Region,195,1,"6 serious, 7 critical",http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0209/68578.html
-17,Hebei province,206,2,17 serious,http://hebwst.gov.cn/index.do?id=397631&templet=content&cid=14
-18,Yunnan province,140,0,"14 serious, 3 critical",http://www.bjnews.com.cn/feature/2020/02/09/686599.html
-19,Hainan province,124,2,13 serious,https://m.weibo.cn/detail/4469618502446670
-20,Shanxi province,115,0,"9 serious, 4 critical",http://wjw.shanxi.gov.cn/wjywl02/24775.hrh
-21,Liaoning province,103,0,"14 serious, 1 critical",https://m.weibo.cn/status/4469706410874349
-22,Tianjin,90,1,"29 serious, 6 critical",https://m.weibo.cn/detail/4470028369624659
-23,Guizhou province,96,1,"15 serious, 5 critical",http://www.gzhfpc.gov.cn/xwzx_500663/tzgg/202002/t20200209_47967133.html
-24,Gansu province,79,1,"7 serious, 1 critical",http://wsjk.gansu.gov.cn/single/10910/83875.html
-25,Jilin province,78,1,"4 serious, 1 critical",https://m.weibo.cn/status/4469967388688025
-26,Inner Mongolia,52,0,0,http://wjw.nmg.gov.cn/doc/2020/02/08/291115.shtml
-27,Ningxia Region,45,0,1 serious,http://wsjkw.nx.gov.cn/info/1140/13645.htm
-28,Xinjiang,42,0,"9 serious, 2 critical",http://www.xjhfpc.gov.cn/info/1495/18152.htm
-29,Qinghai province,18,0,1 serious,https://m.weibo.cn/status/4468903075418422
-30,Tibet,1,0,Stable,http://www.nhc.gov.cn/yjb/s7860/202001/e71bd2e7a0824ca69f87bbf1bef2a3c9.shtml
-31,Undisclosed,131,1,0,http://www.nhc.gov.cn/yjb/s7860/202002/4f28ab5ca87d42d284833df3ccc8d45a.shtml
+0,Hubei province (including Wuhan),29631,871,"4,269 serious, 1,236 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200210_2022514.shtml
+1,Other regions,10540,37,979 serious/critical,http://www.nhc.gov.cn/yjb/s7860/202002/167a0e01b2d24274b03b2ca961107929.shtml
