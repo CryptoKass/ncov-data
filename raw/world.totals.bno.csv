@@ -1,25 +1,25 @@
 MAINLAND CHINA,Cases,Deaths,Notes,Links
-Hubei province (including Wuhan),"33,366","1,068","5,724 serious, 1,517 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200212_2024650.shtml
-Other regions,"11,287",42,963 serious/critical,http://www.nhc.gov.cn/yjb/s7860/202002/395f075a5f3a411f80335766c65b0487.shtml
-TOTAL,"44,653","1,113","8,204 serious4,740 recovered16,067 suspected",
+Hubei province (including Wuhan),"48,206","1,310","5,647 serious, 1,437 critical",http://wjw.hubei.gov.cn/fbjd/dtyw/202002/t20200213_2025581.shtml
+Other regions,"11,598",55,946 serious/critical,
+TOTAL,"59,804","1,365","8,030 serious5,911 recovered13,435 suspected",
 REGIONS,Cases,Deaths,Notes,Links
-Hong Kong,49,1,0 recovered,https://www.info.gov.hk/gia/general/202002/11/P2020021100773.htm
+Hong Kong,50,1,"4 critical, 2 serious, 1 recovered",https://edition.cnn.com/asia/live-news/coronavirus-outbreak-02-12-20-intl-hnk/h_b49323f6a8ba348a79c4cda5886339c7
 Taiwan,18,0,1 recovered,https://www.cdc.gov.tw/Bulletin/Detail/iMZg3IYhKMeo-87fTw8hpQ?typeid=9
 Macau,10,0,1 recovered,https://news.gov.mo/detail/zh-hant/N20BDPAzBd?3
-TOTAL,77,1,0 serious,
+TOTAL,78,1,6 serious,
 INTERNATIONAL,Cases,Deaths,Notes,Links
-Japan,203*,0,"4 serious, 4 recovered",https://www.mhlw.go.jp/stf/newpage_09424.html
-Singapore,47,0,"7 critical, 9 recovered",https://www.moh.gov.sg/news-highlights/details/two-more-cases-discharged-two-new-cases-of-novel-coronavirus-infection-confirmed
+Japan,247*,0,"4 serious, 4 recovered",https://www3.nhk.or.jp/nhkworld/en/news/20200213_29/
+Singapore,50,0,"8 critical, 15 recovered",https://www.moh.gov.sg/news-highlights/details/six-more-cases-discharged-three-new-cases-of-covid-19-infection-confirmed
 Thailand,33,0,"1 serious, 10 recovered",https://pr.moph.go.th/?url=pr/detail/2/04/138459/
 South Korea,28,0,7 recovered,https://en.yna.co.kr/view/AEN20200212007600320
 Malaysia,18,0,3 recovered,https://www.channelnewsasia.com/news/asia/malaysia-recovered-wuhan-coronavirus-patients-china-embassy-12421116
-Australia,15,0,5 recovered,https://www.health.gov.au/news/coronavirus-update-at-a-glance
+Australia,15,0,8 recovered,https://www.smh.com.au/national/all-four-nsw-coronavirus-patients-free-from-disease-20200213-p540i9.html
 Germany,16,0,,https://www.stmgp.bayern.de/presse/aktuelle-informationen-zur-coronavirus-lage-in-bayern-bayerisches-gesundheitsministerium-15/
-Vietnam,15,0,6 recovered,https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/ca-thu-15-nhiem-virus-corona-tai-viet-nam-la-be-gai-3-thang-o-vinh-phuc-615406.html
-United States,13,0,3 recovered,https://www.nbcsandiego.com/news/local/first-coronavirus-case-confirmed-in-san-diego-county/2261207/
-France,11,0,1 serious,https://www.lefigaro.fr/sciences/coronavirus-5-nouveaux-cas-en-france-20200208
-United Kingdom,8,0,,https://www.gov.uk/government/news/chief-medical-officer-for-england-announces-four-further-coronavirus-cases
-Canada,7,0,,https://news.gov.bc.ca/releases/2020HLTH0025-000236
+Vietnam,16,0,7 recovered,https://vietnamnet.vn/vn/suc-khoe/suc-khoe-24h/nguoi-thu-16-nhiem-ncov-tai-viet-nam-615372.html
+United States,14,0,3 recovered,https://twitter.com/BNODesk/status/1227752734486650880
+France,11,0,"1 serious, 2 recovered",https://edition.cnn.com/asia/live-news/coronavirus-outbreak-02-12-20-intl-hnk/h_6ea5df590e539c8c15ab1f218588a086
+United Kingdom,9,0,1 recovered,https://www.bbc.co.uk/news/amp/uk-51481469
+Canada,7,0,1 recovered,https://news.ontario.ca/mohltc/en/2020/02/ontario-confirms-resolved-case-of-the-2019-novel-coronavirus.html
 UAE,8,0,"1 serious, 1 recovered ",https://twitter.com/mohapuae/status/1226926065563656193
 Philippines,3,1,2 recovered,https://twitter.com/mohapuae/status/1226552040559718400
 India,3,0,,https://www.pib.gov.in/PressReleseDetail.aspx?PRID=1601681
@@ -32,4 +32,4 @@ Sri Lanka,1,0,1 recovered,https://www.reuters.com/article/us-health-china-sri-la
 Finland,1,0,1 recovered,https://yle.fi/uutiset/osasto/news/finlands_first_coronavirus_patient_released_from_hospital_symptom-free/11193661
 Sweden,1,0,,https://www.folkhalsomyndigheten.se/nyheter-och-press/nyhetsarkiv/2020/januari/bekraftat-fall-av-nytt-coronavirus-i-sverige/
 Belgium,1,0,,https://www.info-coronavirus.be/nl/2020/02/04/gerepatrieerde-landgenoot-testte-positief-op-het-nieuwe-coronavirus/
-TOTAL,441,1,16 serious/critical,
+TOTAL,491,1,17 serious/critical,
